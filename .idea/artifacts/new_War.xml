@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="new War">
+    <output-path>$PROJECT_DIR$/out/artifacts/new_War</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Jenkins/web/Web" />
+      <element id="javaee-facet-resources" facet="Jenkins/web/Web2222" />
+    </root>
+  </artifact>
+</component>
